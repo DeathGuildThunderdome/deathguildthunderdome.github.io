@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About Us
+  link: /about-us/
+- name: Do You Want to Join?
+  link: /do-you-want-to-join/
+- name: Events
+  link: /events/

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<hr>
+
 <div class="container-fluid">
   <div class="row">
     <div class="col-12">
@@ -11,9 +13,9 @@ layout: default
 <hr>
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">Pinned Blog Posts</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts limit:2 -%}
+      {%- for post in site.posts limit:5 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -33,10 +35,8 @@ layout: default
 <!--    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
-<hr>
-
-<img src="/assets/images/days-since-last-injury-web.jpg" alt="!["Text reading Zero Days Since Last Injury. The number zero is illustrated as a ragged piece of paper pinned onto a surface" class="img-fluid">
-
     </div>
   </div>
 </div>
+
+<hr>

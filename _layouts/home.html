@@ -24,7 +24,7 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-          <a class="post-link" href="{{ post.url | relative_url }}">Read more</a>
+          <a class="post-link" href="{{ post.url | relative_url }}"><strong>Read more<strong></a>
         {%- endif -%}
       </li>
       {%- endfor -%}

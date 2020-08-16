@@ -1,11 +1,11 @@
-<header class="site-header" role="banner">
-<img src="/assets/header-thunderdome11.jpg" alt="Header image: Death Guild Thunderdome family photo">
-  <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<header role="banner">
 
-    {% include navigation.html %}
-
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <img src="/assets/images/dgtd-banner-web.jpg" alt="Text reading Death Guild Thunderdoom in a spooky movie typeface" class="img-fluid img-header">
+      </div>
+    </div>
   </div>
+
 </header>

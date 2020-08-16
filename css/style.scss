@@ -1,0 +1,97 @@
+---
+---
+
+// add bootstrap variable settings here
+@import './bootstrap.css';
+
+@media print { .container { width: auto; } p, h1, h2, code, li, a { color: #000 !important; } }
+
+$theme-primary: #fff ;
+$theme-secondary: #fff ;
+
+body {
+  padding-top: 50px;
+  background-color: #000;
+  color: #fff;
+}
+
+// Typography
+
+p { color: #fff; }
+li { color: #fff; }
+a { color: red; }
+a:hover { color: yellow; }
+a.nav-link:hover { color: yellow !important; }
+a:active, a:visited { color: white; }
+a.post-link {color: yellow; }
+h1 { font-family: Courier, sans-serif; color: #fff; font-size: 2rem; font-weight: bold;}
+h2 { font-family: Courier, sans-serif; color: #fff; font-size: 1.5rem; font-weight: bold; }
+h3 { font-family: Courier, sans-serif; color: #fff; font-size: 1.3rem; font-weight: bold; }
+p.lead { font-size: 1.3rem; margin-bottom: 1rem; }
+div.highlight pre.highlight code { color: #fff !important; }
+
+// global page display settings
+
+div.page-container { padding-right: 0; padding-left: 0; margin-right: 0; margin-left: 0;}
+
+// navigation
+.navbar { background: #000 !important; font-family: Courier, sans-serif; font-weight: bold; }
+.navbar .navbar-brand, .navbar .navbar-text { color: rgba(255,255,255,.8); }
+.navbar .navbar-nav .nav-link { color: rgba(255,255,255,.8); font-weight: bold; }
+.navbar .nav-item.active .nav-link, .navbar .nav-item:focus .nav-link, .navbar .nav-item:hover .nav-link { color: #ffffff; }
+.navbar-nav { text-align: right; }
+
+h1::before {
+  display: block;
+  content: " ";
+  margin-top: -80px;
+  height: 80px;
+  visibility: hidden;
+  pointer-events: none; }
+
+// Sections
+
+img.img-header { margin-bottom: 1.5rem; }
+hr { border: 1px solid #777; margin: 1.6rem 0; }
+
+// Blog
+
+article.post { margin: 0 1rem; }
+
+// Footer
+
+ul.contact-list li { list-style: none; }
+ul.social-media-list li { list-style: none; }
+ul.social-media-list li a { color: white; }
+span.username { vertical-align: top; }
+
+// Screen size adjustments
+
+/*
+@media (max-width: 757px) {
+    h1 { font-size: 1.7rem !important; text-align: center; }
+    div.home h1 { font-size: 1.5rem !important; text-align: left; }
+    h2 { font-size: 1.4rem}
+    p.lead { font-size: 1.1em !important; margin-bottom: 1em; }
+    a.navbar-brand { font-size: 1.1rem; }
+    div.row div p {  }
+    div.services ul { padding-left: 2em; padding-right: 1em; }
+    nav.navbar { padding-right: 0.5rem !important;}
+    button.navbar-toggler { padding-left:5px !important; padding-right: 5px !important; }
+}
+@media (min-width: 576px) {
+  div.content-container { margin: 40px 0; }
+  div.page-container { padding-right: 0; padding-left: 0; }
+  div.about h1 { margin: 1rem 0; }
+}
+@media (min-width: 768px) {
+  div.content-container { margin: 40px auto; }
+  div.page-container { padding-right: 2em; padding-left: 2em; }
+  div.services h1 { margin: 1em 2em 1em; }
+}
+*/
+
+@media (min-width: 992px) {
+    div.page-container, footer { padding-right: 6rem; padding-left: 6rem; }
+    .navbar .navbar-nav .nav-link { padding-right: 0.7rem; padding-left: 0.7rem; }
+}

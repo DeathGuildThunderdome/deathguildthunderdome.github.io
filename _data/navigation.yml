@@ -1,8 +1,10 @@
 - name: Home
   link: /
-- name: About Us
-  link: /about-us/
-- name: Do You Want to Join?
-  link: /do-you-want-to-join/
-- name: Events
-  link: /events/
+- name: Black Lives Matter
+  link: /black-lives-matter/
+- name: Blog
+  link: /blog/
+- name: Get Involved
+  link: /get_involved/
+- name: Donate
+  link: /donate_page/

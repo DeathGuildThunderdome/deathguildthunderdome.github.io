@@ -19,8 +19,8 @@ Although originally started in the San Francisco Bay Area, members now also hail
 
 ### The Rules for participation in Death Guild Thunderdome are simple:
 
-		- Bring your own opponent, we will not provide one for you.
-		- Fights last as long as we say.
-		- We are always right.
-		- Don’t bitch.
-		- And when the sign goes on, come line up to fight.
+- Bring your own opponent, we will not provide one for you.
+- Fights last as long as we say.
+- We are always right.
+- Don’t bitch.
+- And when the sign goes on, come line up to fight.

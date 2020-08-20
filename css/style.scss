@@ -10,7 +10,7 @@ $theme-primary: #fff ;
 $theme-secondary: #fff ;
 
 body {
-  padding-top: 50px;
+  padding-top: 60px;
   background-color: #000;
   color: #fff;
 }
@@ -29,6 +29,17 @@ h2 { font-family: Courier, sans-serif; color: #fff; font-size: 1.5rem; font-weig
 h3 { font-family: Courier, sans-serif; color: #fff; font-size: 1.3rem; font-weight: bold; }
 p.lead { font-size: 1.3rem; margin-bottom: 1rem; }
 div.highlight pre.highlight code { color: #fff !important; }
+div.container-fluid ul { list-style-type: none; }
+div.container-fluid ul li:before { content: '\2014'; position: absolute; font-weight: bold; font-family: monospace; margin-left: -20px;}
+div.container-fluid ul li { font-family: monospace; }
+
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
 
 // global page display settings
 

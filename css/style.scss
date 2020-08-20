@@ -92,6 +92,6 @@ span.username { vertical-align: top; }
 */
 
 @media (min-width: 992px) {
-    div.page-container, footer { padding-right: 6rem; padding-left: 6rem; }
+    div.page-container, footer { max-width: 1000px; margin-left: auto; margin-right: auto; }
     .navbar .navbar-nav .nav-link { padding-right: 0.7rem; padding-left: 0.7rem; }
 }

@@ -32,14 +32,7 @@ div.highlight pre.highlight code { color: #fff !important; }
 div.container-fluid ul { list-style-type: none; }
 div.container-fluid ul li:before { content: '\2014'; position: absolute; font-weight: bold; font-family: monospace; margin-left: -20px;}
 div.container-fluid ul li { font-family: monospace; }
-
-pre {
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
+footer { font-family: monospace; }
 
 // global page display settings
 
@@ -71,9 +64,8 @@ article.post { margin: 0 1rem; }
 
 // Footer
 
-ul.contact-list li { list-style: none; }
-ul.social-media-list li { list-style: none; }
-ul.social-media-list li a { color: white; }
+div.contact-list p {  }
+div.social-media-list a { color: white; }
 span.username { vertical-align: top; }
 
 // Screen size adjustments

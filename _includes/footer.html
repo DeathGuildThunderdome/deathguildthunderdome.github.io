@@ -4,14 +4,14 @@
 
     <div class="row">
       <div class="col-6">
-        <ul class="contact-list">
-          <li class="">
+        <div class="contact-list">
+          <p>
             All images and texts are &#169; Death Guild Thunderdome or their respective authors, all rights reserved.
-            </li>
+          </p>
             {%- if site.email -%}
-            <li>{{ site.email }}</li>
+            <p>{{ site.email }}</p>
             {%- endif -%}
-        </ul>
+        </div>
       </div>
       <div class="col-6">
         {%- include social.html -%}

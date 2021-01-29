@@ -2,7 +2,7 @@
 layout: post
 title:  "Black Lives Matter statement"
 date:   2020-07-10 11:46:00 -0800
-categories: pinned, statement
+categories: [pinned, statement]
 published: true
 permalink: /black-lives-matter/
 ---

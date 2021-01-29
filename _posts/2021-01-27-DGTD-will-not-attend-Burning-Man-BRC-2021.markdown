@@ -2,7 +2,7 @@
 layout: post
 title:  "Death Guild Thunderdome will not be attending Burning Man at Black Rock City in 2021"
 date:   2021-01-28 11:46:00 -0800
-categories: statement
+categories: [pinned, statement]
 published: true
 permalink: /DGTD-will-not-attend-Burning-Man-BRC-2021/
 ---
@@ -78,4 +78,4 @@ See you in 2022 (even if we have to start from scratch),
 
 &nbsp;
 
-![Photo of a group of dusty people standing behind and around a plywood sign spray painted with a drawing of a dropped microphone and text reading: Thank you Black Rock City it's been an amazing 20 years. The foreground is caked playa and there is a large bottle of alcohol in front of the sign.](/assets/images/dgtd-20yrs.jpg){: .d-block .mx-auto .img-fluid }
+![Photo of a group of dusty people standing behind and around a large plywood sign spray painted with a drawing of a dropped microphone and text reading: Thank you Black Rock City it's been an amazing 20 years. The foreground is caked playa and there is a large bottle of alcohol in front of the sign.](/assets/images/dgtd-20yrs.jpg){: .d-block .mx-auto .img-fluid }

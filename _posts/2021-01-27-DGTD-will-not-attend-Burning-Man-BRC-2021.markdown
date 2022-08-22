@@ -2,7 +2,7 @@
 layout: post
 title:  "Death Guild Thunderdome will not be attending Burning Man at Black Rock City in 2021"
 date:   2021-01-28 11:46:00 -0800
-categories: [pinned, statement]
+categories: [statement]
 published: true
 permalink: /DGTD-will-not-attend-Burning-Man-BRC-2021/
 ---

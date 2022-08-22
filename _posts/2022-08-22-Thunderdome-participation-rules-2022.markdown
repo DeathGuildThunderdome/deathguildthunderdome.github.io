@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Death Guild Thunderdome 2022 participation rules"
-date:   2022-08-22 11:56:00 -0800
+title: "Death Guild Thunderdome 2022 participation rules"
+date: 2022-08-22 11:56:00 -0800
 categories: [pinned, statement]
 published: true
 permalink: /DGTD-participation-rules-2022/

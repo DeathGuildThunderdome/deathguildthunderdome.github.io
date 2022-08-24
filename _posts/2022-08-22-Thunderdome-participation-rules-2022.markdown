@@ -21,4 +21,7 @@ A few new things we need from you this year to participate!
 - **YOU MUST WEAR UNDERWEAR.** No exceptions.  Keep your crotch off our junk! (*some exceptions, outside the dome, apply)
 - Want to bring us a gift? We love gifts!  And we love to be nice to people who give us gifts! Unopened bottles of booze, WEARING YOUR OWN KN95/N95 mask, or showing us a copy of your vaxxed and boosted card are always appreciated and help your wait to fight get a little shorter!  
 
+<iframe src="https://player.vimeo.com/video/741373342?h=82cb634319" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
 <!--more-->

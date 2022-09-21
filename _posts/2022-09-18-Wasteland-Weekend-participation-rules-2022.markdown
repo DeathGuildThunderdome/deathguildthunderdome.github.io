@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Death Guild Thunderdome 2022 Burning Man participation"
+title: "Death Guild Thunderdome 2022 Wasteland Weekend participation"
 date: 2022-09-18 11:56:00 -0800
 categories: [pinned, statement]
 published: true

@@ -15,7 +15,8 @@ Here are some important logistical details for those of you interested in being 
 
 - SIGN UP BEFORE 11:59PM PST SATURDAY 9/24
     - Seriously, if you don't fill out the disclaimer form by September 25 (the Sunday before the event) YOU WILL NOT BE ABLE TO PARTICIPATE.
-https://forms.gle/awgvKx4Bc9xGs7FM9
+    - [Click here to fill out the disclaimer][ww-2022-disclaimer]
+[ww-2022-disclaimer]: https://forms.gle/awgvKx4Bc9xGs7FM9
     - Not sure if you've filled out the form already? Search "2022 death guild participant sign-up form" in your email's inbox.
 
 - ATTEND ONE OF OUR BASIC TRAINING SESSIONS DURING WASTELAND

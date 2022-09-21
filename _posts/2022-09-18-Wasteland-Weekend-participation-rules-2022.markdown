@@ -15,8 +15,7 @@ Here are some important logistical details for those of you interested in being 
 
 - SIGN UP BEFORE 11:59PM PST SATURDAY 9/24
     - Seriously, if you don't fill out the disclaimer form by September 25 (the Sunday before the event) YOU WILL NOT BE ABLE TO PARTICIPATE.
-    - [Click here to fill out the disclaimer][ww-2022-disclaimer]
-
+    - [Click here to fill out the disclaimer](https://forms.gle/awgvKx4Bc9xGs7FM9)
     - Not sure if you've filled out the form already? Search "2022 death guild participant sign-up form" in your email's inbox.
 
 - ATTEND ONE OF OUR BASIC TRAINING SESSIONS DURING WASTELAND
@@ -28,7 +27,6 @@ Here are some important logistical details for those of you interested in being 
     - If you end up never setting foot in the dome that's totally fine. Better to sign up and go to a training session so you can get your wristband than miss out once you see how fun it is.
 
 - A FEW NEW THINGS WE NEED FROM YOU THIS YEAR TO PARTICIPATE
-    - You must find your own partner and you must both have wristbands - bring someone or pick up outside the dome.  
     - For OUR safety and yours, fighters will be asked to wear a mask while in line and up to getting strapped up for your battle! **Please bring your own KN95 or N95!**
     - Please don’t come to fight if you have covid-19 symptoms, are running a fever, have a rash or sores on your face, hands or crotch!  Get that shit checked out!
     - **YOU MUST WEAR UNDERWEAR.** No exceptions.  Keep your crotch off our junk! (*some exceptions, outside the dome, apply)
@@ -40,5 +38,4 @@ Death Guild Thunderdome Crew 💀🤘🤘
 <iframe src="https://player.vimeo.com/video/741373342?h=82cb634319" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
-[ww-2022-disclaimer]: https://forms.gle/awgvKx4Bc9xGs7FM9
 <!--more-->

@@ -10,8 +10,7 @@ Are you in a place to support Death Guild Thunderdome in getting to events? No d
 
 ### Donating time is here!
 
-- [Venmo : @deathguildthunderdome][venmo-link]
-[venmo-link]: https://venmo.com/deathguildthunderdome?txn=pay
+- [Venmo : @deathguildthunderdome](https://venmo.com/deathguildthunderdome?txn=pay)
   - select “pay without confirming phone number”
 - PayPal : Deathguildthunderdome@gmail.com
 

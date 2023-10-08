@@ -24,6 +24,5 @@ Although originally started in the San Francisco Bay Area, members now also hail
 - We are always right.
 - Don’t bitch.
 - And when the sign goes on, come line up to fight.
-- **Read 2022 DGTD participation rules below** or [linked here][dgtd-rules-2022].
 
 [dgtd-rules-2022]: /DGTD-participation-rules-2022/

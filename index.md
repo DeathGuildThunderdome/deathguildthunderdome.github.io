@@ -7,6 +7,9 @@ title: Death Guild Thunderdome
 permalink: /
 ---
 
+## Death Guild Thunderdome is [accepting donations to maintain equipment!][donate-link] Every donation helps.
+[donate-link]: /donate/
+
 Originally established in 1999 as a Theme Camp at Burning Man in the Nevada Black Rock Desert, Death Guild Thunderdome grew out of one of the longest running gothic night clubs (Death Guild) in San Francisco. DGTD was intended to “provide a place for some good music” at the Burning Man event, primarily as an alternative to the rave culture at the time. Taking its cue from the famous Mad Max series of post-apocalyptic films, Death Guild Thunderdome erects a geodesic dome as an arena for “fights” to take place, hangs bungees from the top with harnesses for participants to be strapped into, and provides foam boffer “weapons” to each “fighter.” Participants swing through the Dome, pummeling each other while the music blares and camp members provide a post-apocalyptic ambiance and theatrical experience.
 
 For over twenty years, Death Guild Thunderdome has attended Burning Man and more recently has also become a feature of the Wasteland Weekend event in California’s Mojave Desert. Death Guild Thunderdome occasionally puts on shows at outdoor events like Knotfest in Burbank and Ghost Ship Halloween in San Francisco.

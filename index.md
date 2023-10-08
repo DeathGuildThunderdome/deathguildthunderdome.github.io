@@ -7,7 +7,7 @@ title: Death Guild Thunderdome
 permalink: /
 ---
 
-<div markdown="1" style="center">
+<div markdown="1" style="align-items-center">
 ## Death Guild Thunderdome is [accepting donations to maintain equipment!][donate-link] <br>Every donation helps.
 [donate-link]: /donate/
 </div>

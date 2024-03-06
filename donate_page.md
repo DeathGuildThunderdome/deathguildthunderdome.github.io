@@ -10,10 +10,10 @@ Are you in a place to support Death Guild Thunderdome in getting to events? No d
 
 ### Donating time is here!
 
-- [Venmo : @deathguildthunderdome](https://venmo.com/deathguildthunderdome?txn=pay)
+- Venmo : [@deathguildthunderdome](https://venmo.com/deathguildthunderdome?txn=pay)
   - select “pay without confirming phone number”
 - PayPal : Deathguildthunderdome@gmail.com
-
+- Patreon : [Death Guild Thunderdome](https://patreon.com/deathguildthunderdome)
 We deeply appreciate the support from donors that have helped keep Thunderdome available to all and running smoothly.
 
 Any amount helps us bring our unique fusion of bloodsport and art to you.

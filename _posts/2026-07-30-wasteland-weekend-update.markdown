@@ -18,8 +18,6 @@ Welcome to another edition of Thunderdome! We have some big news: **starting thi
 
 > **THEN AND ONLY THEN** will you be able to come back at night to be a part of the carnage. Thunderdome matches will start Wednesday night this year!
 
----
-
 ### Training sessions will be held at the following times; YOU MUST ATTEND ONE TO PARTICIPATE:
 * **Wednesday** at 6pm
 * **Thursday** at 5pm
